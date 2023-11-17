@@ -28,3 +28,9 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+
+pages/subscriptions/*
+components/_spike/*
+components/*_dep.*
+

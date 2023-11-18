@@ -1,10 +1,7 @@
-import Home from '../components/home/home';
-import Layout from '../components/layout';
+import Article from './posts/article';
 
 export default function Index() {
   return (
-    <Layout>
-      <Home />
-    </Layout>
+    <Article />
   );
 }

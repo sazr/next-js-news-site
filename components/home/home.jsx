@@ -1,10 +1,4 @@
-import Head from 'next/head';
 import Link from 'next/link';
-// import styles from './home.module.css';
-import Header from '../header/header';
-import Footer from '../footer';
-// import Spike from './_spike/spike';
-// import SiteHeader from './_spike/spike_nav';
 
 export default () => {
   return (
